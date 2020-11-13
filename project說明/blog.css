@@ -30,12 +30,14 @@ h2 {
 .quote {
   border-left: 5px solid #bdc3c7;
   padding-left: 5px;
+  font-size: 25px;
   
 }
 
 .post-info {
   margin-top: 15px;
   font-size: 30px;
+  text-indent:2em
 }
 
 .post {
@@ -45,3 +47,7 @@ h2 {
 .心得{
   font-size: 50px;
 }
+.甘苦{
+  font-size: 50px;
+}
+
